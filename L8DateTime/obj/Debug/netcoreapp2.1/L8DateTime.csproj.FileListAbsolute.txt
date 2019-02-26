@@ -1,0 +1,11 @@
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\bin\Debug\netcoreapp2.1\L8DateTime.deps.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\bin\Debug\netcoreapp2.1\L8DateTime.runtimeconfig.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\bin\Debug\netcoreapp2.1\L8DateTime.runtimeconfig.dev.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\bin\Debug\netcoreapp2.1\L8DateTime.dll
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\bin\Debug\netcoreapp2.1\L8DateTime.pdb
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\obj\Debug\netcoreapp2.1\L8DateTime.csprojAssemblyReference.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\obj\Debug\netcoreapp2.1\L8DateTime.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\obj\Debug\netcoreapp2.1\L8DateTime.AssemblyInfoInputs.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\obj\Debug\netcoreapp2.1\L8DateTime.AssemblyInfo.cs
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\obj\Debug\netcoreapp2.1\L8DateTime.dll
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L8DateTime\obj\Debug\netcoreapp2.1\L8DateTime.pdb
