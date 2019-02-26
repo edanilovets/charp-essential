@@ -1,0 +1,11 @@
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\bin\Debug\netcoreapp2.1\L7Structures000.deps.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\bin\Debug\netcoreapp2.1\L7Structures000.runtimeconfig.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\bin\Debug\netcoreapp2.1\L7Structures000.runtimeconfig.dev.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\bin\Debug\netcoreapp2.1\L7Structures000.dll
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\bin\Debug\netcoreapp2.1\L7Structures000.pdb
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\obj\Debug\netcoreapp2.1\L7Structures000.csprojAssemblyReference.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\obj\Debug\netcoreapp2.1\L7Structures000.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\obj\Debug\netcoreapp2.1\L7Structures000.AssemblyInfoInputs.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\obj\Debug\netcoreapp2.1\L7Structures000.AssemblyInfo.cs
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\obj\Debug\netcoreapp2.1\L7Structures000.dll
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7Structures000\obj\Debug\netcoreapp2.1\L7Structures000.pdb
