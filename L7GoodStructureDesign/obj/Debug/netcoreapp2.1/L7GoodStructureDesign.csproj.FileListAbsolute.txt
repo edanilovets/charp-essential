@@ -1,0 +1,10 @@
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7GoodStructureDesign\bin\Debug\netcoreapp2.1\L7GoodStructureDesign.deps.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7GoodStructureDesign\bin\Debug\netcoreapp2.1\L7GoodStructureDesign.runtimeconfig.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7GoodStructureDesign\bin\Debug\netcoreapp2.1\L7GoodStructureDesign.runtimeconfig.dev.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7GoodStructureDesign\bin\Debug\netcoreapp2.1\L7GoodStructureDesign.dll
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7GoodStructureDesign\bin\Debug\netcoreapp2.1\L7GoodStructureDesign.pdb
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7GoodStructureDesign\obj\Debug\netcoreapp2.1\L7GoodStructureDesign.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7GoodStructureDesign\obj\Debug\netcoreapp2.1\L7GoodStructureDesign.AssemblyInfoInputs.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7GoodStructureDesign\obj\Debug\netcoreapp2.1\L7GoodStructureDesign.AssemblyInfo.cs
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7GoodStructureDesign\obj\Debug\netcoreapp2.1\L7GoodStructureDesign.dll
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7GoodStructureDesign\obj\Debug\netcoreapp2.1\L7GoodStructureDesign.pdb

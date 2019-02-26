@@ -1,0 +1,10 @@
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7StructInStack\bin\Debug\netcoreapp2.1\L7StructInStack.deps.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7StructInStack\bin\Debug\netcoreapp2.1\L7StructInStack.runtimeconfig.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7StructInStack\bin\Debug\netcoreapp2.1\L7StructInStack.runtimeconfig.dev.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7StructInStack\bin\Debug\netcoreapp2.1\L7StructInStack.dll
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7StructInStack\bin\Debug\netcoreapp2.1\L7StructInStack.pdb
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7StructInStack\obj\Debug\netcoreapp2.1\L7StructInStack.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7StructInStack\obj\Debug\netcoreapp2.1\L7StructInStack.AssemblyInfoInputs.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7StructInStack\obj\Debug\netcoreapp2.1\L7StructInStack.AssemblyInfo.cs
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7StructInStack\obj\Debug\netcoreapp2.1\L7StructInStack.dll
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\L7StructInStack\obj\Debug\netcoreapp2.1\L7StructInStack.pdb

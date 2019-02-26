@@ -1,0 +1,11 @@
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\bin\Debug\netcoreapp2.1\ItvdnCSharpEssential.deps.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\bin\Debug\netcoreapp2.1\ItvdnCSharpEssential.runtimeconfig.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\bin\Debug\netcoreapp2.1\ItvdnCSharpEssential.runtimeconfig.dev.json
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\bin\Debug\netcoreapp2.1\ItvdnCSharpEssential.dll
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\bin\Debug\netcoreapp2.1\ItvdnCSharpEssential.pdb
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\obj\Debug\netcoreapp2.1\ItvdnCSharpEssential.csprojAssemblyReference.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\obj\Debug\netcoreapp2.1\ItvdnCSharpEssential.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\obj\Debug\netcoreapp2.1\ItvdnCSharpEssential.AssemblyInfoInputs.cache
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\obj\Debug\netcoreapp2.1\ItvdnCSharpEssential.AssemblyInfo.cs
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\obj\Debug\netcoreapp2.1\ItvdnCSharpEssential.dll
+C:\Users\evgen\source\repos\ItvdnCSharpEssential\ItvdnCSharpEssential\obj\Debug\netcoreapp2.1\ItvdnCSharpEssential.pdb
