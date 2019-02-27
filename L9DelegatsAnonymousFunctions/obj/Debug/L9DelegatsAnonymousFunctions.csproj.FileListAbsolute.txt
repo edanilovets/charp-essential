@@ -1,0 +1,6 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9DelegatsAnonymousFunctions\bin\Debug\L9DelegatsAnonymousFunctions.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9DelegatsAnonymousFunctions\bin\Debug\L9DelegatsAnonymousFunctions.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9DelegatsAnonymousFunctions\bin\Debug\L9DelegatsAnonymousFunctions.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9DelegatsAnonymousFunctions\obj\Debug\L9DelegatsAnonymousFunctions.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9DelegatsAnonymousFunctions\obj\Debug\L9DelegatsAnonymousFunctions.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9DelegatsAnonymousFunctions\obj\Debug\L9DelegatsAnonymousFunctions.pdb

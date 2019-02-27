@@ -1,0 +1,7 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9LambdaRecursion\bin\Debug\L9LambdaRecursion.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9LambdaRecursion\bin\Debug\L9LambdaRecursion.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9LambdaRecursion\bin\Debug\L9LambdaRecursion.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9LambdaRecursion\obj\Debug\L9LambdaRecursion.csprojAssemblyReference.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9LambdaRecursion\obj\Debug\L9LambdaRecursion.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9LambdaRecursion\obj\Debug\L9LambdaRecursion.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9LambdaRecursion\obj\Debug\L9LambdaRecursion.pdb

@@ -1,0 +1,7 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Lambda001\bin\Debug\L9Lambda001.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Lambda001\bin\Debug\L9Lambda001.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Lambda001\bin\Debug\L9Lambda001.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Lambda001\obj\Debug\L9Lambda001.csprojAssemblyReference.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Lambda001\obj\Debug\L9Lambda001.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Lambda001\obj\Debug\L9Lambda001.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Lambda001\obj\Debug\L9Lambda001.pdb

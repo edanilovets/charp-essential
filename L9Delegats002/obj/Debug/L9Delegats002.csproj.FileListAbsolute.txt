@@ -1,0 +1,7 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Delegats002\bin\Debug\L9Delegats002.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Delegats002\bin\Debug\L9Delegats002.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Delegats002\bin\Debug\L9Delegats002.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Delegats002\obj\Debug\L9Delegats002.csprojAssemblyReference.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Delegats002\obj\Debug\L9Delegats002.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Delegats002\obj\Debug\L9Delegats002.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L9Delegats002\obj\Debug\L9Delegats002.pdb
