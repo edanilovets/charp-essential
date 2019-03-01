@@ -1,0 +1,7 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L12Events\bin\Debug\L12Events.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L12Events\bin\Debug\L12Events.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L12Events\bin\Debug\L12Events.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L12Events\obj\Debug\L12Events.csprojAssemblyReference.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L12Events\obj\Debug\L12Events.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L12Events\obj\Debug\L12Events.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L12Events\obj\Debug\L12Events.pdb
