@@ -1,0 +1,7 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14Yield001\bin\Debug\L14Yield001.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14Yield001\bin\Debug\L14Yield001.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14Yield001\bin\Debug\L14Yield001.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14Yield001\obj\Debug\L14Yield001.csprojAssemblyReference.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14Yield001\obj\Debug\L14Yield001.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14Yield001\obj\Debug\L14Yield001.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14Yield001\obj\Debug\L14Yield001.pdb

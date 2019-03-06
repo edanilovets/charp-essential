@@ -1,0 +1,7 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14UserCollection\bin\Debug\L14UserCollection.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14UserCollection\bin\Debug\L14UserCollection.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14UserCollection\bin\Debug\L14UserCollection.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14UserCollection\obj\Debug\L14UserCollection.csprojAssemblyReference.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14UserCollection\obj\Debug\L14UserCollection.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14UserCollection\obj\Debug\L14UserCollection.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L14UserCollection\obj\Debug\L14UserCollection.pdb

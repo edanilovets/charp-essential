@@ -1,0 +1,7 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L15Exceptions\bin\Debug\L15Exceptions.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L15Exceptions\bin\Debug\L15Exceptions.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L15Exceptions\bin\Debug\L15Exceptions.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L15Exceptions\obj\Debug\L15Exceptions.csprojAssemblyReference.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L15Exceptions\obj\Debug\L15Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L15Exceptions\obj\Debug\L15Exceptions.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L15Exceptions\obj\Debug\L15Exceptions.pdb
