@@ -1,0 +1,7 @@
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Dictionary\bin\Debug\L2Dictionary.exe.config
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Dictionary\bin\Debug\L2Dictionary.exe
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Dictionary\bin\Debug\L2Dictionary.pdb
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Dictionary\obj\Debug\L2Dictionary.csprojAssemblyReference.cache
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Dictionary\obj\Debug\L2Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Dictionary\obj\Debug\L2Dictionary.exe
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Dictionary\obj\Debug\L2Dictionary.pdb

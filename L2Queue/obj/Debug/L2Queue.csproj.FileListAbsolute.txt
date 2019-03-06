@@ -1,0 +1,7 @@
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Queue\bin\Debug\L2Queue.exe.config
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Queue\bin\Debug\L2Queue.exe
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Queue\bin\Debug\L2Queue.pdb
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Queue\obj\Debug\L2Queue.csprojAssemblyReference.cache
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Queue\obj\Debug\L2Queue.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Queue\obj\Debug\L2Queue.exe
+C:\Users\evhendax\source\repos\ITVDNCSharpProfessional\L2Queue\obj\Debug\L2Queue.pdb
