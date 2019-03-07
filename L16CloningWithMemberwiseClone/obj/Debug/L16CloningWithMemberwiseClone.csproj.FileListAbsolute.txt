@@ -1,0 +1,7 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16CloningWithMemberwiseClone\bin\Debug\L16CloningWithMemberwiseClone.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16CloningWithMemberwiseClone\bin\Debug\L16CloningWithMemberwiseClone.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16CloningWithMemberwiseClone\bin\Debug\L16CloningWithMemberwiseClone.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16CloningWithMemberwiseClone\obj\Debug\L16CloningWithMemberwiseClone.csprojAssemblyReference.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16CloningWithMemberwiseClone\obj\Debug\L16CloningWithMemberwiseClone.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16CloningWithMemberwiseClone\obj\Debug\L16CloningWithMemberwiseClone.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16CloningWithMemberwiseClone\obj\Debug\L16CloningWithMemberwiseClone.pdb

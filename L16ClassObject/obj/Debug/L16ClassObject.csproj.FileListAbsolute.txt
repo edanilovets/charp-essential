@@ -1,0 +1,7 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16ClassObject\bin\Debug\L16ClassObject.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16ClassObject\bin\Debug\L16ClassObject.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16ClassObject\bin\Debug\L16ClassObject.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16ClassObject\obj\Debug\L16ClassObject.csprojAssemblyReference.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16ClassObject\obj\Debug\L16ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16ClassObject\obj\Debug\L16ClassObject.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16ClassObject\obj\Debug\L16ClassObject.pdb

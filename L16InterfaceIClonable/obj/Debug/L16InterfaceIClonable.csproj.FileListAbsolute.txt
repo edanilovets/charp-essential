@@ -1,0 +1,7 @@
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16InterfaceIClonable\bin\Debug\L16InterfaceIClonable.exe.config
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16InterfaceIClonable\bin\Debug\L16InterfaceIClonable.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16InterfaceIClonable\bin\Debug\L16InterfaceIClonable.pdb
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16InterfaceIClonable\obj\Debug\L16InterfaceIClonable.csprojAssemblyReference.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16InterfaceIClonable\obj\Debug\L16InterfaceIClonable.csproj.CoreCompileInputs.cache
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16InterfaceIClonable\obj\Debug\L16InterfaceIClonable.exe
+C:\Users\evhendax\Desktop\ITVDN\L7Structures\L16InterfaceIClonable\obj\Debug\L16InterfaceIClonable.pdb
